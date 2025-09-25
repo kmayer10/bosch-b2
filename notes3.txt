@@ -8,3 +8,4 @@ Added one more change to demo, conflict between local & repo, while doing push/s
 Added change for Fetch DEMO
 
 Added change for protected branch demo
+Added change for protected branch demo - post adding Ruleset for protected branch
