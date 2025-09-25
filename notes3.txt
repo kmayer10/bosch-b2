@@ -9,3 +9,4 @@ Added change for Fetch DEMO
 
 Added change for protected branch demo
 Added change for protected branch demo - post adding Ruleset for protected branch
+Added change for Stale approval demo
