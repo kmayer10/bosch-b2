@@ -7,3 +7,4 @@ Change in VS Code: Added one more change to demo, conflict between local & repo,
 Added one more change to demo, conflict between local & repo, while doing push/sync
 Added change for Fetch DEMO
 
+Added change for protected branch demo
